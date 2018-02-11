@@ -46,7 +46,17 @@ var odwroconaTablica = imiona.reverse();
 console.log(odwroconaTablica);
 
 var sortTablica = imiona.sort();
-console.log(sortTablica);
+console.log(sortTablica); /// sortowanie tablicy w tym przypadku imiona alfabetycznie
+
+
+
+
+
+
+
+
+
+
 
 
 
