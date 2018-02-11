@@ -23,4 +23,15 @@ var wynikObliczen2 = obliczWynik(200, 200, 365);
 console.log(wynikObliczen2);
 
 var wynikObliczen3 = obliczWynik(15, 16, 17);
-console.log(wynikObliczen3);
+console.log(wynikObliczen3);   // funkcja z parametrami uzywamy parametrow nie zmiennych globalnych
+
+
+
+
+
+
+
+
+
+
+

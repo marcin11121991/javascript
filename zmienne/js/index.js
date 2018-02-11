@@ -18,3 +18,13 @@ document.write( imie, nazwisko, wiek);
 }
 
 pokazDane();
+
+
+
+
+
+
+
+
+
+
