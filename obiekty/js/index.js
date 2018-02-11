@@ -40,7 +40,7 @@ class Ogloszenie{
         this.cena = cena;
     }
     wyswietlOgloszenie() {
-        document.write("Tytuł: " + this.tytul + " " + "opis: " + this.opis + " " + "kontakt" + this.kontakt + " " + "cena: " + this.cena );
+        document.write("Tytuł: " + this.tytul + " " + "opis: " + this.opis + " " + "kontakt" + this.kontakt + " " + "cena: " + this.cena ); // zabawa zamiast console.log :-)
     }
 } 
 
