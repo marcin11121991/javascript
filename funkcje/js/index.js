@@ -31,7 +31,3 @@ console.log(wynikObliczen3);   // funkcja z parametrami uzywamy parametrow nie z
 
 
 
-
-
-
-
