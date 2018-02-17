@@ -20,7 +20,7 @@ var allLinks = document.querySelectorAll('a'); /// wybieramy wszystkie a
 for (var i = 0; i < allLinks.length; i++) {
     var br = document.createElement('br');
     allLinks[i].parentNode.insertBefore(br, allLinks[i].nextSibling); 
-    allLinks[i].removeAttribute('class');
+    allLinks[i].removeAttribute('class'); // usuwanie klasy
 }
 // dodaj br po kazdym linku
 
