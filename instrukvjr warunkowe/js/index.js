@@ -53,3 +53,6 @@ switch (grupa) {
         console.log("nie wiadomo ile jest osob w grupie");
 
 }
+
+
+////
